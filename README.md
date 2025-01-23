@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @arialCoding
-- 👀 I’m interested in computers!
-- 🌱 I’m currently learning c++ and the SFML library.
+- 👋 Hi, I’m Trari Mohammed El Mehdi, known as @arialCoding
+- 🌱 I’m currently learning and preparing to build my own kernel for learning purposes
 - 📫 How to reach me : mehtra111@gmail.com
 
 <!---
