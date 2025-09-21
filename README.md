@@ -34,7 +34,7 @@ I believe that struggling through the hard stuff is what makes a great programme
 
 ### 📫 Reach Me:
 If you want to chat about game dev, systems programming, or weird bugs you regret causing at 2am, feel free to reach out!
-Email: mehtra111@gmail.com
+Email: mohammedelmehdi.trari@gmail.com
 
 ---
 
