@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Trari Mohammed El mehdi. Also known as TR Arial or arialCoding
+# 👋 Hello there! I'm Trari Mohammed El Mehdi. Also goes by TR Arial.
 
 Welcome to my GitHub profile!
 
