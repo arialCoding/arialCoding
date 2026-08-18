@@ -23,6 +23,11 @@ I'm TR, a passionate beginner game engine developer with a strong love for under
 
 ---
 
+### Technologies:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,cpp,cs,dotnet,flutter,tauri,react,tailwind,nextjs,mongodb,postgres,sqlite,py,blender)](https://skillicons.dev)
+
+---
+
 ### Philosophy:
 > Why use a library when you can suffer and learn building your own?
 
